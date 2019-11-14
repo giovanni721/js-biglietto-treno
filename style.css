@@ -1,0 +1,7 @@
+#sentence{
+    display: none;
+}
+
+#sentence.visible{
+    display: block;
+}
